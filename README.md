@@ -9,6 +9,10 @@
   <img align="center" alt="Jojo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jojo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jojo-CSS" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> 
+  
+</div>
+ <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=JojoMarques&theme=radical">
+<img heigth="180cm" src="">
 </div>
 
 - 🔭 I’m currently working on ...

@@ -18,5 +18,11 @@
 <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JojoMarques&theme=radical&layout=compact">
 </div>
 
+<!--informações de contato-->
+<div>
+  <a href="https://instagram.com/tmarques_jo" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <a href="https://" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank">
+</div>
+
 
 - ⚡Curiosidades: Amo gatinhos e gosto de assistir Fórmula 1 (sou Ferrarista)!!

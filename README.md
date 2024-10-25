@@ -20,8 +20,8 @@
 <!--estatísticas e linguagens mais usadas-->
 <br><br>
 <div>
-<img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=JojoMarques&theme=radical"> <br>
-<img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JojoMarques&theme=radical&layout=compact">
+<img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JojoMarques&theme=radical&layout=compact"> <br>
+<img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=JojoMarques&theme=radical"> 
 </div>
 
 <!--informações de contato-->

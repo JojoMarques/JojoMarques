@@ -25,6 +25,9 @@
 <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=JojoMarques&theme=radical"> 
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JojoMarques&theme=radical)](https://git.io/streak-stats)
+
+
 <!--informações de contato-->
 <footer>
 <div>

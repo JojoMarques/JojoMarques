@@ -11,7 +11,6 @@
   <img align="center" alt="Jojo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jojo-CSS" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> 
 
-- Possuo forte interesse pela área de desenvolvimento backend
 <!--estatísticas e linguagens mais usadas-->
 </div>
  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=JojoMarques&theme=radical">
@@ -20,8 +19,9 @@
 
 <!--informações de contato-->
 <div>
-  <a href="https://instagram.com/tmarques_jo" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    <a href="https://" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/jossana-marques/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <a href="mailto:jossanatavarerm@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+     <a href="https://instagram.com/tmarques_jo" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </div>
 
 

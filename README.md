@@ -1,11 +1,16 @@
 ## Oiii, eu sou a Jossana Marques!!👋
 
-- Sou estudante do 3º ano do Curso Técnico em Informática Integrado ao Ensino Médio no IFSP - SPO 📘
-- Possuo forte interesse pela área de desenvolvimento backend 💻
-- Amo gatinhos e gosto de assistir Fórmula 1 (sou Ferrarista)!! 😸⚡
+<h3>💙Sobre mim:</h3>
+<ul>
+  <li>Sou estudante do 3º ano do Curso Técnico em Informática Integrado ao Ensino Médio no IFSP - SPO 📘</li>
+  <li>Possuo forte interesse pela área de desenvolvimento backend 💻</li>
+  <li>Amo gatinhos😸</li>
+  <li>Gosto de assistir Fórmula 1 (sou Ferrarista)⚡🏁</li>
+</ul>
+
 <!--ícones das linguagens-->
 <div style="display: inline_block"><br>
-  <p>🌱Atualmente estou estudando as seguintes linguagens:</p>
+  <h3>🌱Atualmente estou estudando as seguintes linguagens:</h3>
   <img align="center" alt="Jojo-Java" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Jojo-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jojo-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

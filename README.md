@@ -27,10 +27,9 @@
 
 <!---->
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px;">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=JojoMarques&theme=radical" alt="GitHub Streak Stats" target="_blank">
-    </a>
+    <img src="https://streak-stats.demolab.com/?user=JojoMarques&theme=radical" alt="GitHub Streak Stats">
 </div>
+
 
 <!--informações de contato-->
 <footer>

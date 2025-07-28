@@ -2,10 +2,8 @@
 
 <h3>💙Sobre mim:</h3>
 <ul>
-  <li>Sou estudante do 3º ano do Curso Técnico em Informática Integrado ao Ensino Médio no IFSP - SPO 📘</li>
+  <li>Sou estudante do 4º ano do Curso Técnico em Informática Integrado ao Ensino Médio no IFSP - SPO 📘</li>
   <li>Possuo forte interesse pela área de desenvolvimento backend 💻</li>
-  <li>Amo gatinhos😸</li>
-  <li>Gosto de assistir Fórmula 1 (sou Ferrarista)⚡🏁</li>
 </ul>
 
 <!--ícones das linguagens-->

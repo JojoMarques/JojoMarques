@@ -1,4 +1,4 @@
-## Oiii, eu sou a Jossana Marques!!👋
+## Oiii, eu sou a Jô!!👋
 
 <h3>💙Sobre mim:</h3>
 <ul>
